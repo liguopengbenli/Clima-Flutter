@@ -1,5 +1,16 @@
 import 'package:geolocator/geolocator.dart';
 
+/*
+*
+* HTTP return code cheet sheet
+* 1** Hold on
+* 2** Here you go
+* 3** Go away
+* 4** You fucked up
+* 5** I fucked up (server)
+*
+* */
+
 class Location {
   double latitude;
   double longitude;
